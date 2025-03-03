@@ -62,4 +62,4 @@ Feel free to explore my repositories and projects. Let's **build something amazi
 ---
 
 ### **GitHub Stats**:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeep-somasundaram&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradeepSomasundaram1512&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
