@@ -59,7 +59,4 @@ I’ve recently **organized my scattered projects** into well-structured and eas
 ### **Thank You for Visiting My GitHub Profile!** 👋  
 Feel free to explore my repositories and projects. Let's **build something amazing** together! 🚀
 
----
 
-### **GitHub Stats**:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradeepSomasundaram1512&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
