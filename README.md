@@ -2,7 +2,7 @@
 ## Hello, I'm **Pradeep Somasundaram** 👨‍💻  
 ### Aspiring **Data Scientist** | **AI/ML Engineer** | **Graduate Student at The George Washington University**
 
-[![GitHub followers](https://img.shields.io/github/followers/pradeep-somasundaram?style=social)](https://github.com/pradeep-somasundaram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/pradeep-somasundaram-835230192/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/pradeep-somasundaram-835230192/)
 
 ---
 
