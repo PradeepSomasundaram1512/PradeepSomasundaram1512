@@ -1,4 +1,3 @@
-# ![Pradeep Somasundaram](https://avatars.githubusercontent.com/u/113035967?v=4)  
 # <div align="center"><img src="https://avatars.githubusercontent.com/u/113035967?v=4" width="150" height="150" alt="Pradeep Somasundaram" /></div>  
 ## Hello, I'm **Pradeep Somasundaram** 👨‍💻  
 ### Aspiring **Data Scientist** | **AI/ML Engineer** | **Graduate Student at The George Washington University**
