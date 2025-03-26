@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://avatars.githubusercontent.com/u/113035967?v=4" width="150" height="150" alt="Pradeep Somasundaram" /></div>  
+# <div align="center"><img src="https://avatars.githubusercontent.com/u/113035967?s=400&u=61c8705534a0456c24e341366b02872d43afcdb8&v=4" width="150" height="150" alt="Pradeep Somasundaram" /></div>  
 ## Hello, I'm **Pradeep Somasundaram** 👨‍💻  
 ### Aspiring **Data Scientist** | **AI/ML Engineer** | **Graduate Student at The George Washington University**
 
