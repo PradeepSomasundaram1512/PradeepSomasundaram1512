@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/113035967?s=400&u=61c8705534a0456c24e341366b02872d43afcdb8&v=4" width="130" height="130" style="border-radius:50%" alt="Pradeep Somasundaram" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6a11cb&height=180&section=header&text=Pradeep%20Somasundaram&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" alt="header" />
 
-<h1>Hi, I'm Pradeep Somasundaram 👋</h1>
+<img src="https://avatars.githubusercontent.com/u/113035967?s=400&u=61c8705534a0456c24e341366b02872d43afcdb8&v=4" width="120" height="120" style="border-radius:50%" alt="Pradeep Somasundaram" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+AI%2FML+Engineer;M.S.+Data+Science+%40+George+Washington+University;I+turn+messy+data+into+decisions;Building+with+LLMs%2C+Kafka+%26+Spark" alt="Typing SVG" />
 
@@ -118,10 +118,32 @@ Transaction-level analysis of a pharmaceutical supply chain to guide prediction 
 </tr>
 </table>
 
+<details>
+<summary><b>🔍 Click to see more projects</b></summary>
+<br/>
+
+| Project | Focus |
+|---|---|
+| [Multi-Channel Data Integration Analysis](https://github.com/PradeepSomasundaram1512/Multi-Channel-Data-Integration-Analysis) | Integrating and reconciling data from multiple source systems |
+| [AI-Driven Customer Retention Model](https://github.com/PradeepSomasundaram1512/AI-Driven-Customer-Retention-Model-for-E-Commerce) | Churn prediction for e-commerce |
+| [Digital Financial Platform for Logistics](https://github.com/PradeepSomasundaram1512/Digital-Financial-Platform-for-Logistics) | Revenue collection & forecasting for logistics finance |
+| [Fraud Detection in Transactional Data](https://github.com/PradeepSomasundaram1512/Fraud-Detection-in-Transactional-Data) | Anomaly detection over transaction streams |
+| [Customer Retention Dashboard](https://github.com/PradeepSomasundaram1512/Customer-Retention-Dashboard-with-Predictive-Insights) | Predictive insights dashboard for retention |
+| [Sales Prediction](https://github.com/PradeepSomasundaram1512/Sales-Prediction) | Forecasting models for sales data |
+| [Patient Survival Analysis](https://github.com/PradeepSomasundaram1512/Patient-Survival-Analysis) | Survival modeling on clinical data |
+| [TeleHealth Trends Dashboard](https://github.com/PradeepSomasundaram1512/TeleHealth-Trends-Dashboard) | Visualizing telehealth adoption trends |
+| [Hand-Written Digit Recognition](https://github.com/PradeepSomasundaram1512/Hand-Written-Digit-Recognition) | Classic MNIST-style digit classifier in R |
+
+</details>
+
+## 🐍 Contribution Snake
+
 <div align="center">
-
-*More in my [pinned repositories](https://github.com/PradeepSomasundaram1512?tab=repositories) — retention modeling, fraud detection, financial dashboards, and more.*
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PradeepSomasundaram1512/PradeepSomasundaram1512/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PradeepSomasundaram1512/PradeepSomasundaram1512/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake game animation eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/PradeepSomasundaram1512/PradeepSomasundaram1512/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 </div>
 
 ## 📊 GitHub Stats
@@ -132,6 +154,10 @@ Transaction-level analysis of a pharmaceutical supply chain to guide prediction 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepSomasundaram1512&theme=tokyonight&hide_border=true" height="165" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepSomasundaram1512&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PradeepSomasundaram1512&theme=tokyo-night&hide_border=true" width="95%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=PradeepSomasundaram1512&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
@@ -153,5 +179,7 @@ I'm always up for a conversation about data, ML systems, or interesting problems
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=PradeepSomasundaram1512&style=flat-square&color=2E9EF7&label=Profile+Views" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2E9EF7&height=100&section=footer&animation=fadeIn" alt="footer" />
 
 </div>
