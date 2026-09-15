@@ -150,14 +150,7 @@ Transaction-level analysis of a pharmaceutical supply chain to guide prediction 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PradeepSomasundaram1512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepSomasundaram1512&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepSomasundaram1512&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PradeepSomasundaram1512&theme=tokyo-night&hide_border=true" width="95%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=PradeepSomasundaram1512&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepSomasundaram1512&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
